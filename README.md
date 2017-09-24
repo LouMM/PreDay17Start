@@ -8,6 +8,7 @@ This repo is to assist,as a starting point, to your challenge for today's pre-da
 ## Step 1 - Create your Azure Application
 ## Step 2 - Create your Function App in the Azure Portal
 ## Step 3 - Enable Beta Functionality of Function App.
+### ![Enable Beta Flag for Azure functions](Images/AzFuncGraphEnableBeta.gif)
 ## Step 4 - Add your Azure Active Directory Application Details to Functions
 ## Step 5 - Create a new Azure Function for Microsoft Graph
 
